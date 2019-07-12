@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# csvs to accomodate github filesize restrictions
+*.csv
